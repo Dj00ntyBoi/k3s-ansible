@@ -1,7 +1,7 @@
 master:
   hosts:
-    rpi1.fritz.box
-    bpi1.fritz.box
+    rpi1.fritz.box:
+    bpi1.fritz.box:
 
 node:
   hosts:
