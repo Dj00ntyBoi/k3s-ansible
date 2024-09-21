@@ -1,10 +1,10 @@
 master:
   hosts:
     rpi1.fritz.box:
-    bpi1.fritz.box:
 
 node:
   hosts:
+    bpi1.fritz.box:
 
 
 # only required if proxmox_lxc_configure: true
